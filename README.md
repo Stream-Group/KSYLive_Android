@@ -2,6 +2,8 @@
 
 [ ![Download](https://api.bintray.com/packages/ksvc/ksylive/libksylive-java/images/download.svg) ](https://bintray.com/ksvc/ksylive/libksylive-java/_latestVersion)
 
+<pre>Source Type:<b> Binary SDK</b>
+Charge Type:<b> free of charge</b></pre>
 ## 阅读对象
 本文档面向所有使用[金山云直播SDK][KSYLive_Android]的开发、测试人员等, 要求读者具有一定的Android编程开发经验，并且要求读者具备阅读[wiki][wiki]的习惯。
 
@@ -33,7 +35,7 @@ KSYLive库融合了Android 播放和推流SDK。旨在提供业内一流的移�
 * [x] [录屏](https://github.com/ksvc/KSYDiversityLive_Android/tree/master/KSYScreenStreamer)  
 * [x] 秒开加速
 * [x] 低延时直播
-* [x] 弱网优化
+* [x] [弱网优化](https://github.com/ksvc/KSYStreamer_Android/wiki/Streamer_Config_Params#视频码率及码率自适应)
 * [x] 卡顿优化
 * [x] 丰富的软硬编、软硬解支持
 * [x] [悬浮窗推流](https://github.com/ksvc/KSYStreamer_Android/wiki/FloatingView)
